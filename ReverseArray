@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main{
+
+int array[100];
+
+cout << "Enter the size of the array: " << endl;
+cin >> array[i];
+
+
+
+
+
+
+
+return 0;
+}
